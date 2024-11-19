@@ -5,7 +5,9 @@ int main(){
     // scanf("%c" , &a);
     // printf("%c", a);
 
-    
+    float x ;
+    printf("Please enter a floating-point number");
+    scanf("%")
     
     
     
