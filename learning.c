@@ -1,9 +1,11 @@
 #include <stdio.h>
 int main(){
-    char a ;
+    // char a ;
     // printf("Please enter a single character");
     // scanf("%c" , &a);
     // printf("%c", a);
+
+    
     
     
     
