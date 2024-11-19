@@ -8,7 +8,7 @@ int main(){
     float x ;
     printf("Please enter a floating-point number");
     scanf("%f" , &x);
-    
+    printf("The entered number is %f", x);
     
     
     
