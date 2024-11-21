@@ -10,7 +10,7 @@ int main(){
     scanf("%f" , &x);
     printf("The entered number is %f", x);
     
-    
+    printf("hello world")
     
    
     return 0;
